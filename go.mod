@@ -1,4 +1,4 @@
-module emperror.dev/errors
+module github.com/gee-m/errors
 
 go 1.12
 
